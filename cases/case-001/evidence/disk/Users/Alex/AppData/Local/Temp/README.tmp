@@ -1,0 +1,9 @@
+diff --git a/cases/case-001/evidence/disk/Users/Alex/AppData/Local/Temp/README.tmp b/cases/case-001/evidence/disk/Users/Alex/AppData/Local/Temp/README.tmp
+new file mode 100644
+index 0000000000000000000000000000000000000000..db437dcd335e59e1f935608eccb1cfc3e0119e00
+--- /dev/null
++++ b/cases/case-001/evidence/disk/Users/Alex/AppData/Local/Temp/README.tmp
+@@ -0,0 +1,3 @@
++TMP artifact recovered from temp directory.
++User executed: update_checker.exe
++SHA256: 3fcb7d0c6ad6c8f0aa9b0fdc894f20d48d6af6a4a10a92c6b1f3b0d2c9d8a222
