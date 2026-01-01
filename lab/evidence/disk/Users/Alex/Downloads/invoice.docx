@@ -1,0 +1,10 @@
+diff --git a/lab/evidence/disk/Users/Alex/Downloads/invoice.docx b/lab/evidence/disk/Users/Alex/Downloads/invoice.docx
+new file mode 100644
+index 0000000000000000000000000000000000000000..40174cf35dd4b809b08ffcebdbb97ca61d2460f9
+--- /dev/null
++++ b/lab/evidence/disk/Users/Alex/Downloads/invoice.docx
+@@ -0,0 +1,4 @@
++This file is a decoy document.
++Invoice ID: INV-2024-0917
++Contact: billing@northwind-example.test
++Notes: Review payment details.
