@@ -1,0 +1,10 @@
+diff --git a/cases/case-001/evidence/network/pcap_summary.txt b/cases/case-001/evidence/network/pcap_summary.txt
+new file mode 100644
+index 0000000000000000000000000000000000000000..b51ddaef181671eab5723cf70c34158fd2fb2648
+--- /dev/null
++++ b/cases/case-001/evidence/network/pcap_summary.txt
+@@ -0,0 +1,4 @@
++Capture Summary (pcap not included)
++- 2024-09-17T08:18:16Z HTTP GET /download host=update-checker.example user-agent=Mozilla/5.0
++- 2024-09-17T08:19:42Z HTTP GET /stage1.js host=update-checker.example
++- 2024-09-17T08:21:59Z HTTPS POST /sync host=203.0.113.77 size=4820 bytes
