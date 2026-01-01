@@ -1,0 +1,13 @@
+diff --git a/cases/case-001/hashes.csv b/cases/case-001/hashes.csv
+new file mode 100644
+index 0000000000000000000000000000000000000000..df6b30e79cae969546fdd279345a3d7249e5914c
+--- /dev/null
++++ b/cases/case-001/hashes.csv
+@@ -0,0 +1,7 @@
++path,sha256
++evidence/disk/Users/Alex/AppData/Local/Temp/README.tmp,803705a8b2ea2f4f8bb39894a4eb1fdd503cdbc027bae2624744ccbfe126a0fa
++evidence/disk/Users/Alex/Downloads/browser_history.csv,33f77e5886d6b9f180f247d3da0f414d40bbebb2eff0e1364ec750f002a73088
++evidence/disk/Users/Alex/Downloads/invoice.docx,d5b573ce6b9364fc39e23679ba397b2b4dfc16287eb531ca818a5be21c82c91e
++evidence/disk/Windows/System32/LogFiles/security.log,6909448507787b5cc46ad8d2d5290a2a9ef49fa039f7e1245153123807ef8314
++evidence/memory/mem_strings.txt,886170135bebb5b28d269fd91557a4b38c0cff1d935b7bcf44a7c6b8b97107a6
++evidence/network/pcap_summary.txt,6ff04b4120d13906082fe43611188ada710c39a2878e4cebcb909e0175e2249b
