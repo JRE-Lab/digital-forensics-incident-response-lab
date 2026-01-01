@@ -1,0 +1,17 @@
+diff --git a/lab/evidence/memory/mem_strings.txt b/lab/evidence/memory/mem_strings.txt
+new file mode 100644
+index 0000000000000000000000000000000000000000..ae9be05e423fb128293174c4edd4ecef60ef3236
+--- /dev/null
++++ b/lab/evidence/memory/mem_strings.txt
+@@ -0,0 +1,11 @@
++Process List:
++- system (pid 4)
++- explorer.exe (pid 2140)
++- outlook.exe (pid 3224)
++- update_checker.exe (pid 3508)
++- mshta.exe (pid 3516)
++- powershell.exe (pid 3620) commandline="powershell -ExecutionPolicy Bypass -File C:\\Users\\Alex\\AppData\\Roaming\\sync.ps1"
++
++Network Connections:
++- 10.0.5.17:49722 -> 198.51.100.24:80 (update_checker.exe)
++- 10.0.5.17:49733 -> 203.0.113.77:443 (powershell.exe)
