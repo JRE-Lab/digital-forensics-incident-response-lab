@@ -1,0 +1,13 @@
+diff --git a/cases/case-001/evidence/disk/Windows/System32/LogFiles/security.log b/cases/case-001/evidence/disk/Windows/System32/LogFiles/security.log
+new file mode 100644
+index 0000000000000000000000000000000000000000..3d031697f0cbfd7e0eeb78c7ef2b4641d5638b97
+--- /dev/null
++++ b/cases/case-001/evidence/disk/Windows/System32/LogFiles/security.log
+@@ -0,0 +1,7 @@
++2024-09-17T08:12:14Z AUTH_SUCCESS user=alex host=workstation-17 source=10.0.5.23
++2024-09-17T08:16:02Z AUTH_FAILURE user=alex host=workstation-17 source=10.0.5.77
++2024-09-17T08:16:30Z AUTH_FAILURE user=alex host=workstation-17 source=10.0.5.77
++2024-09-17T08:17:03Z AUTH_SUCCESS user=alex host=workstation-17 source=10.0.5.77
++2024-09-17T08:18:40Z PROCESS_START user=alex process=update_checker.exe parent=outlook.exe
++2024-09-17T08:20:11Z PROCESS_START user=alex process=mshta.exe parent=update_checker.exe
++2024-09-17T08:21:55Z FILE_WRITE user=alex path=C:\Users\Alex\AppData\Roaming\sync.ps1
