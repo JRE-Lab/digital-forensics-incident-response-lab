@@ -1,0 +1,11 @@
+diff --git a/lab/evidence/disk/Users/Alex/Downloads/browser_history.csv b/lab/evidence/disk/Users/Alex/Downloads/browser_history.csv
+new file mode 100644
+index 0000000000000000000000000000000000000000..96236f6e7e764549b2e14285e3e46c26a5b89d0b
+--- /dev/null
++++ b/lab/evidence/disk/Users/Alex/Downloads/browser_history.csv
+@@ -0,0 +1,5 @@
++timestamp,url,title
++2024-09-17T07:55:20Z,https://intranet.northwind.example/hr,HR Portal
++2024-09-17T08:02:41Z,https://mail.northwind.example/owa,Outlook Web Access
++2024-09-17T08:18:10Z,http://update-checker.example/download,Update Checker
++2024-09-17T08:19:33Z,http://update-checker.example/notes,Release Notes
